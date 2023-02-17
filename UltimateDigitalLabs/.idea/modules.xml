@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UltimateDigitalLabs.iml" filepath="$PROJECT_DIR$/UltimateDigitalLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UltimateDigitalLabsActorMs/UltimateDigitalLabsActorMs.iml" filepath="$PROJECT_DIR$/UltimateDigitalLabsActorMs/UltimateDigitalLabsActorMs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UltimateDigitalLabsApiGateWay/UltimateDigitalLabsApiGateWay.iml" filepath="$PROJECT_DIR$/UltimateDigitalLabsApiGateWay/UltimateDigitalLabsApiGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UltimateDigitalLabsDiscoveryService/UltimateDigitalLabsDiscoveryService.iml" filepath="$PROJECT_DIR$/UltimateDigitalLabsDiscoveryService/UltimateDigitalLabsDiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UltimateDigitalLabsMoviesMs/UltimateDigitalLabsMoviesMs.iml" filepath="$PROJECT_DIR$/UltimateDigitalLabsMoviesMs/UltimateDigitalLabsMoviesMs.iml" />
+    </modules>
+  </component>
+</project>
